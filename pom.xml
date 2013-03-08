@@ -6,7 +6,7 @@
 	<name>Example project</name>
 	
 	<scm>
-        <url>mdeck@git.echo-v.net:/var/lib/git/example</url>
+        <url>git@github.com:EchoVantage/example.git</url>
         <connection>scm:git:${project.scm.url}</connection>
         <developerConnection>scm:git:${project.scm.url}</developerConnection>
 	</scm>
